@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 import 'dart:convert';
 
-const APIKEY = '8ABC4202-8DFB-4C5A-A08B-784C3A33F25A';
+const APIKEY = 'YOUR_API_KEY';
 
 class Networkhelper{
 
